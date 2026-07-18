@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Mehdi El Hamdaoui
 
-<!--
-**mehdi-cybersec/mehdi-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Aspiring SOC Analyst
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm documenting my journey toward becoming a SOC Analyst by sharing hands-on labs, write-ups, and security projects.
+
+---
+
+## 🎯 Career Goal
+
+Become a Blue Team / SOC Analyst with a strong foundation in practical cybersecurity.
+
+---
+
+## 📚 Currently Studying
+
+- 📖 CompTIA Security+
+- 🧪 TryHackMe – SOC Level 1 Path
+
+---
+
+## 🏆 Certifications
+
+- ✅ CompTIA A+
+- ✅ CompTIA Network+
+- 🔄 CompTIA Security+ (In Progress)
+
+---
+
+## 🔬 Current Focus
+
+- Blue Team Fundamentals
+- SOC Analysis
+- Security Monitoring
+- Hands-on Labs
+- Threat Detection
+
+---
+
+## 📂 Projects
+
+Projects and lab documentation will be published here as I progress through my cybersecurity journey.
+
+Upcoming repositories:
+
+- 📁 TryHackMe Write-ups
+- 📁 Blue Team Labs
+- 📁 Home Lab Documentation
+- 📁 Active Directory Lab
+- 📁 Python Security Tools *(planned)*
+
+---
+
+## 📈 Philosophy
+
+I believe the best way to learn cybersecurity is by building, documenting, and continuously improving.
+
+> "Learn. Practice. Document. Repeat."
